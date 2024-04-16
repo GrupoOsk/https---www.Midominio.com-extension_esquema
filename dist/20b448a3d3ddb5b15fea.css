@@ -1,0 +1,71 @@
+/* 
+ * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ */
+
+
+
+ html,
+ body {
+     max-width: 100%;
+     max-height: 100%;
+     width: 360px;
+     margin: 0px auto 0px auto;
+     padding: 0;
+     font-size: 16px;
+ }
+ 
+
+
+.contenedor_general{
+    text-align: center;
+}
+
+
+
+
+
+
+
+.eo_identificacion{
+    margin: 20px 0px 20px 0px;
+}
+.eo_identificacion h1{
+    font-size: 1.2rem !important;
+    font-weight: bold;
+    padding: 10px 0px 20px 0px;
+}
+.panel_body_identificacion_texto{
+    margin-bottom: 10px;
+}
+
+
+.panel_body_botones{
+    text-align: center;
+}
+
+
+.panel_body_boton50{
+
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    width: 40%;
+    margin: 0px 15px 0px 15px;
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+    display: inline-block;
+
+}
+.panel_body_boton50:hover{
+
+    color: #000000;
+    background-color: #ffffff;
+    
+}
+
+
+
+
